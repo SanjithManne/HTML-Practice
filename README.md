@@ -1,1 +1,1 @@
-A sinmple cafe menu.
+A simple cafe menu.
